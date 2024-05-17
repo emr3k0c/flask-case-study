@@ -41,7 +41,7 @@ company_users, daily_users = prepare_data()
      
 @app.route('/')
 def index():
-    return render_template('index.html', conpany_users=company_users, daily_users=daily_users)
+    return render_template('index.html', company_users=company_users, daily_users=daily_users)
 
 if __name__ == '__main__':
     app.run()

@@ -1,0 +1,1 @@
+This repository contains a personal project of a web application developed using Flask. The project demonstrates how to display tables and graphs using mock JSON data utilizing Html,css and javascript.
